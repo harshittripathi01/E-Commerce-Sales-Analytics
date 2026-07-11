@@ -189,11 +189,12 @@ Business queries performed using MySQL:
 E-Commerce-Sales-Analytics/
 │
 ├── data/
-│   ├── raw.csv
 │   └── cleaned_retail.csv
 │
 ├── notebooks/
-│   └── EDA.ipynb
+│   ├── 01_Data_Understanding.ipynb
+│   ├── 02_Data_Cleaning.ipynb
+│   └── 03_Exploratory_Data_Analysis.ipynb
 │
 ├── sql/
 │   └── analysis_queries.sql
@@ -205,8 +206,8 @@ E-Commerce-Sales-Analytics/
 │   └── dashboard.png
 │
 ├── README.md
-│
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
 ```
 
 ---
