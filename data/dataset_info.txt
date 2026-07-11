@@ -1,0 +1,40 @@
+Dataset Information
+===================
+
+Project:
+E-Commerce Sales Analytics
+
+Dataset:
+Online Retail II
+
+Source:
+UCI Machine Learning Repository
+
+Dataset Link:
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+Description:
+The Online Retail II dataset contains transactional sales data of a UK-based online retailer covering the period from 01 December 2009 to 09 December 2011.
+
+Dataset Characteristics:
+- Total Records (Original): 1,067,371
+- Time Period: Dec 2009 – Dec 2011
+- Country Coverage: 43 Countries
+- Currency: British Pound Sterling (£)
+
+Repository Note:
+The original cleaned dataset is larger than GitHub's 100 MB file size limit and is therefore not included in this repository.
+
+A sample cleaned dataset (cleaned_retail_sample.csv) has been provided for demonstration purposes.
+
+To reproduce the project:
+1. Download the original dataset from the UCI Machine Learning Repository.
+2. Run the notebooks in order:
+   - 01_Data_Understanding.ipynb
+   - 02_Data_Cleaning.ipynb
+   - 03_Exploratory_Data_Analysis.ipynb
+3. Execute the SQL queries.
+4. Open the Power BI dashboard (.pbix).
+
+Author:
+Harshit Tripathi
