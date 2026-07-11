@@ -220,7 +220,7 @@ E-Commerce-Sales-Analytics/
 │   └── Ecommerce_Sales_Dashboard.pbix
 │
 ├── images/
-│   └── dashboard.png
+│   └── Snapshot_of_the_dashboard.png
 │
 ├── README.md
 ├── requirements.txt
