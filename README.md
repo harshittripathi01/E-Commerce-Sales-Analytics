@@ -15,7 +15,7 @@ An end-to-end Data Analytics project that analyzes over **1 million retail trans
 
 > Dashboard Screenshot
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/harshittripathi01/E-Commerce-Sales-Analytics/blob/main/images/Snapshot_of_the_dashboard.png)
 
 ---
 
